@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GarcaCorp</string>
+    <string name="descripcion">No necesario</string>
+    <string name="txt_User">Ingrese Usuario</string>
+    <string name="txt_Password">Ingresar contraseña</string>
+    <string name="botob1">Ingresar</string>
+    <string name="tv1">®Garcacorp</string>
+</resources>
